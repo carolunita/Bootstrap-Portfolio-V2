@@ -252,6 +252,7 @@ a:focus, a:hover, a:active {
 	border: 2px solid #dddddd;
   margin-top: 32px;
   height: 265px;
+  margin: 15px;
 }
 
 h3,
